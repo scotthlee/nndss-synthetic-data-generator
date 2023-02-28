@@ -1,0 +1,16 @@
+{
+    "$schema": "https://it-guides.cdc.gov/source-code/assets/schemas/code_cdc_ext_2.0.0.json",
+    "contact": {
+        "email": "xlr@cdc.gov",
+        "name": "CDC Accelerator Team"
+    },
+    "cdc-config": {
+        "projectType": "config",
+        "organization": "DDPHSS/CSELS/DHIS",
+        "validated": "2020-03-12",
+        "comment": "Per guardrail, https://it-guides.cdc.gov/source-code/, overriding metadata that's not derived from the repo",
+        "dontCatalog": {
+            "excludeReason": "Exploratory"
+        }
+    }
+}
