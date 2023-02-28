@@ -6,8 +6,8 @@ The NNDSS synthetic data generator is used to create case-level data that mimics
 
 * Point of contact: [Accelerator Team](mailto:xlr@cdc.gov)
 * Organizational unit: DDPHSS/CSELS/DHIS
-* Related projects: [NEDSS](https://wwwn.cdc.gov/nndss/nedss.html)
-* Related investments: [NEDSS](https://wwwn.cdc.gov/nndss/nedss.html)
+* Related projects: [NEDSS](https://www.cdc.gov/nndss/about/nedss.html)
+* Related investments: [NEDSS](https://www.cdc.gov/nndss/about/nedss.html)
 * Governance status: Under design / Experimental
 * Program official: Leslyn McNabb
 
